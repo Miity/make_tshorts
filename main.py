@@ -55,5 +55,6 @@ for tshort in os.listdir('./tshorts'):
                 paste_image('center', tshort, file, size_center, box_center)
 
 print("done")
+print("You can see the result in 'format', inside main directory")
 
 exit()
